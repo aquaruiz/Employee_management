@@ -1,2 +1,3 @@
 # Employee_management
-Spring and Angular
+BE Spring Boot 
+FE Angular
