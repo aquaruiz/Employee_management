@@ -6,4 +6,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface EmployeeRepository extends PagingAndSortingRepository<Employee, Long> {
+    void deleteEmployeeById(Long id);
 }
